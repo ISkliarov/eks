@@ -1,0 +1,4 @@
+container:
+  image: iskliarov/k8sapp:latest
+
+replicaCount: 2
